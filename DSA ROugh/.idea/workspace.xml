@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c8fb71d1-3a24-499e-9e4c-2241253e7528" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Arrays DataStructure/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays DataStructure/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays DataStructure/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays DataStructure/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays DataStructure/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays DataStructure/Arrays operations practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays DataStructure/out/production/Arrays operations practice/ArraysOperations.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays DataStructure/out/production/Arrays operations practice/SortingALgorithm.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays DataStructure/src/ArraysOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays DataStructure/src/SortingALgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA LAABS/LAAB3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA LAABS/LAAB3/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA LAABS/LAAB3/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA LAABS/LAAB3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA LAABS/LAAB3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA LAABS/LAAB3/LAAB3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA LAABS/LAAB3/out/production/LAAB3/Mainn.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA LAABS/LAAB3/out/production/LAAB3/laab3/Searching_lab.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA LAABS/LAAB3/src/Mainn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA LAABS/LAAB3/src/laab3/Searching_lab.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA LAABS/Laab 2 tasks/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA LAABS/Laab 2 tasks/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA LAABS/Laab 2 tasks/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA LAABS/Laab 2 tasks/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA LAABS/Laab 2 tasks/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA LAABS/Laab 2 tasks/Laab 2 tasks.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA LAABS/Laab 2 tasks/out/production/Laab 2 tasks/FireAir.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA LAABS/Laab 2 tasks/out/production/Laab 2 tasks/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA LAABS/Laab 2 tasks/out/production/Laab 2 tasks/MusicApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA LAABS/Laab 2 tasks/out/production/Laab 2 tasks/contactApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA LAABS/Laab 2 tasks/src/FireAir.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA LAABS/Laab 2 tasks/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA LAABS/Laab 2 tasks/src/MusicApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA LAABS/Laab 2 tasks/src/contactApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA LAABS/Laab 2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA LAABS/Laab 2/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA LAABS/Laab 2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA LAABS/Laab 2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA LAABS/Laab 2/Laab 2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA LAABS/Laab 2/out/production/Laab 2/Min_Max.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA LAABS/Laab 2/out/production/Laab 2/Sum_of_Array.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA LAABS/Laab 2/out/production/Laab 2/contact_Number.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA LAABS/Laab 2/src/Min_Max.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA LAABS/Laab 2/src/Sum_of_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA LAABS/Laab 2/src/contact_Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA LAABS/Laab 4 task/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA LAABS/Laab 4 task/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA LAABS/Laab 4 task/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA LAABS/Laab 4 task/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA LAABS/Laab 4 task/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA LAABS/Laab 4 task/Laab 4 task.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA LAABS/Laab 4 task/out/production/Laab 4 task/laab4/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA LAABS/Laab 4 task/out/production/Laab 4 task/laab4/Sorting.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA LAABS/Laab 4 task/src/laab4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA LAABS/Laab 4 task/src/laab4/Sorting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA LAABS/Laab 9/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA LAABS/Laab 9/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA LAABS/Laab 9/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA LAABS/Laab 9/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA LAABS/Laab 9/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA LAABS/Laab 9/Laab 9.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA LAABS/Laab 9/out/production/Laab 9/ArrayStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA LAABS/Laab 9/out/production/Laab 9/LinkedStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA LAABS/Laab 9/out/production/Laab 9/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA LAABS/Laab 9/out/production/Laab 9/Task_3$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA LAABS/Laab 9/out/production/Laab 9/Task_3$Stack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA LAABS/Laab 9/out/production/Laab 9/Task_3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA LAABS/Laab 9/src/ArrayStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA LAABS/Laab 9/src/LinkedStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA LAABS/Laab 9/src/Task_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA LAABS/laab1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA LAABS/laab1/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA LAABS/laab1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA LAABS/laab1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA LAABS/laab1/laab1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA LAABS/laab1/out/production/laab1/Tasks_Reference_Type/MenuBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA LAABS/laab1/out/production/laab1/primitive_dataType/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA LAABS/laab1/src/Tasks_Reference_Type/MenuBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA LAABS/laab1/src/primitive_dataType/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA LAABS/laab22/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA LAABS/laab22/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA LAABS/laab22/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA LAABS/laab22/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA LAABS/laab22/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA LAABS/laab22/laab22.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA LAABS/laab22/out/production/laab22/Rectangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA LAABS/laab22/src/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA LAABS/laab22/src/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA LAABS/laab7/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA LAABS/laab7/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA LAABS/laab7/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA LAABS/laab7/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA LAABS/laab7/Laab7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA LAABS/laab7/out/production/laab7/Lab7/FireAir.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA LAABS/laab7/out/production/laab7/Lab7/GenericNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA LAABS/laab7/out/production/laab7/Lab7/LikedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA LAABS/laab7/out/production/laab7/Lab7/Map.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA LAABS/laab7/out/production/laab7/Lab7/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA LAABS/laab7/src/Lab7/FireAir.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA LAABS/laab7/src/Lab7/LikedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA LAABS/laab7/src/Lab7/Map.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA tests/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA tests/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA tests/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA tests/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA tests/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA tests/DSA tests.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA tests/out/production/DSA tests/DSAOperations.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA tests/out/production/DSA tests/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA tests/out/production/DSA tests/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA tests/src/DSAOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Queue/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Queue/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Queue/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Queue/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Queue/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Queue/Queue.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Queue/out/production/Queue/L_Queue$Node1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Queue/out/production/Queue/L_Queue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Queue/out/production/Queue/Queue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Queue/out/production/Queue/TesttabRecursion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Queue/out/production/Queue/hanoi_towers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Queue/out/production/Queue/linkedqueue$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Queue/out/production/Queue/linkedqueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Queue/out/production/Queue/palindrome.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Queue/src/L_Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Queue/src/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Queue/src/TesttabRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Queue/src/hanoi_towers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Queue/src/linkedqueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Queue/src/palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stack/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stack/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stack/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stack/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stack/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stack/Stack.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stack/out/production/Stack/ArrayStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stack/out/production/Stack/RPN.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stack/out/production/Stack/StackMethods$ArrayStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stack/out/production/Stack/StackMethods.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stack/out/production/Stack/linkedStack$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stack/out/production/Stack/linkedStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stack/out/production/Stack/stack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stack/out/production/Stack/stackList$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stack/out/production/Stack/stackList$stack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stack/out/production/Stack/stackList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stack/src/ArrayStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stack/src/RPN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stack/src/StackMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stack/src/linkedStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stack/src/stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stack/src/stackList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tree DataStructure/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tree DataStructure/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tree DataStructure/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tree DataStructure/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tree DataStructure/Tree DataStructure.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tree DataStructure/out/production/Tree DataStructure/binaryTree$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tree DataStructure/out/production/Tree DataStructure/binaryTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tree DataStructure/src/BST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tree DataStructure/src/Binarytrree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tree DataStructure/src/binaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generic class/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generic class/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generic class/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generic class/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generic class/generic class.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generic class/out/production/generic class/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generic class/out/production/generic class/generic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generic class/out/production/generic class/sections.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generic class/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetCode Array/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetCode Array/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetCode Array/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetCode Array/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetCode Array/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetCode Array/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetCode Array/leetCode Array.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetCode Array/out/production/leetCode Array/Two_Sum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetCode Array/src/Roman_to_Integer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetCode Array/src/Two_Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetCode linkedlist/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetCode linkedlist/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetCode linkedlist/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetCode linkedlist/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetCode linkedlist/leetCode linkedlist.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetCode linkedlist/src/solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linkedlist operations/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linkedlist operations/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linkedlist operations/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linkedlist operations/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linkedlist operations/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linkedlist operations/linkedlist operations.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linkedlist operations/out/production/linkedlist operations/CopyLinkedList$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linkedlist operations/out/production/linkedlist operations/CopyLinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linkedlist operations/out/production/linkedlist operations/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linkedlist operations/out/production/linkedlist operations/insertion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linkedlist operations/out/production/linkedlist operations/performOperation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linkedlist operations/src/CopyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linkedlist operations/src/insertion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../papers practice/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../papers practice/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../papers practice/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../papers practice/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../papers practice/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../papers practice/out/production/papers practice/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../papers practice/out/production/papers practice/NODe.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../papers practice/out/production/papers practice/Reverse_linkedlist.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../papers practice/out/production/papers practice/average_of_nodes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../papers practice/out/production/papers practice/copyMethod.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../papers practice/out/production/papers practice/linkedlist.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../papers practice/out/production/papers practice/search_node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../papers practice/papers practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../papers practice/src/average_of_nodes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../papers practice/src/copyMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../papers practice/src/linkedlist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../papers practice/src/search_node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../papers practice/src/sum_of_last_last_Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../singly LinkedList/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../singly LinkedList/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../singly LinkedList/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../singly LinkedList/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../singly LinkedList/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../singly LinkedList/out/production/singly LinkedList/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../singly LinkedList/out/production/singly LinkedList/Node1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../singly LinkedList/out/production/singly LinkedList/Node2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../singly LinkedList/out/production/singly LinkedList/copy_list.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../singly LinkedList/out/production/singly LinkedList/linkedlist_operation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../singly LinkedList/out/production/singly LinkedList/merging_List.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../singly LinkedList/singly LinkedList.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../singly LinkedList/src/copy_list.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../singly LinkedList/src/linkedlist_operation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../singly LinkedList/src/merging_List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sir mohsin HW/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sir mohsin HW/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sir mohsin HW/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sir mohsin HW/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sir mohsin HW/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sir mohsin HW/out/production/sir mohsin HW/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sir mohsin HW/out/production/sir mohsin HW/deletion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sir mohsin HW/out/production/sir mohsin HW/paragraph$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sir mohsin HW/out/production/sir mohsin HW/paragraph$Node2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sir mohsin HW/out/production/sir mohsin HW/paragraph.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sir mohsin HW/out/production/sir mohsin HW/paragraph.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sir mohsin HW/sir mohsin HW.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sir mohsin HW/src/cetion1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sir mohsin HW/src/deletion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sir mohsin HW/src/paragraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sir mohsin HW/src/paragraph.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IsAALDDy6kfEhZSpRMSgYULcSU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c8fb71d1-3a24-499e-9e4c-2241253e7528" name="Changes" comment="" />
+      <created>1670959774625</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670959774625</updated>
+    </task>
+    <servers />
+  </component>
+</project>
